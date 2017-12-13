@@ -5,7 +5,7 @@ body{
 	background: url(https://vignette.wikia.nocookie.net/fallout/images/b/b6/Vault_111.png/revision/latest?cb=20150608181823);
         background-repeat:no-repeat;
 	background-size:cover;
-	
+	background-attachment:fixed;
 }
 .middle{
         margin:auto;
